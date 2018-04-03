@@ -1,4 +1,4 @@
-# unity-shadergraph-sandbox
+# unity-shadergraph-sketches
 
 ![gif](Screenshots/Sketch00.gif)
 ![gif](Screenshots/Sketch01.gif)
