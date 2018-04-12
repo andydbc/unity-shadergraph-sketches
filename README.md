@@ -1,10 +1,6 @@
 # unity-shadergraph-sketches
 
-![gif](Screenshots/Sketch00.gif)
-![gif](Screenshots/Sketch01.gif)
-![gif](Screenshots/Sketch02.gif)
-![gif](Screenshots/Sketch03.gif)
-![gif](Screenshots/Sketch04.gif)
+![gif](https://user-images.githubusercontent.com/31256170/38709005-d89afef2-3e86-11e8-842e-e41e7e3d35a5.png)
 
 Limitations
 ===============
